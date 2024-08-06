@@ -1,2 +1,2 @@
 # CODSOFT
-Here I'll be uploading my internship tasks!
+CodSoft Internship Task 3 - Calculator 
